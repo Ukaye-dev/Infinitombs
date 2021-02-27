@@ -148,8 +148,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ukaye - [@UkayeDev](https://twitter.com/UkayeDev)
-Beren - [@Berenvonbaggins](https://twitter.com/Berenvonbaggins)
+* Ukaye - [@UkayeDev](https://twitter.com/UkayeDev)
+* Beren - [@Berenvonbaggins](https://twitter.com/Berenvonbaggins)
 
 Discord: - no public discord yet
 Project Link: [https://github.com/Ukaye-dev/Infinitombs](https://github.com/Ukaye-dev/Infinitombs)
