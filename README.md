@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+*** Ukaye-dev, Infinitombs, UkayeDev, email, Infinitombs, project_description
 -->
 
 
@@ -31,23 +31,25 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Ukaye-dev/Infinitombs">
+   <!--<img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Dimensional Dungeons</h3>
+  <h3 align="center">Infinitombs</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/Ukaye-dev/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ukaye-dev/Infinitombs/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Ukaye-dev/Infinitombs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Ukaye-dev/Infinitombs/issues">Request Feature</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://trello.com/b/YB7TeL80/infinitombs">See the Roadmap</a>
+    ·
+    <a href="https://github.com/Ukaye-dev/Infinitombs">Join the Discord</a>
   </p>
 </p>
 
@@ -70,12 +72,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   <!-- <li><a href="#acknowledgements">Acknowledgements</a></li>-->
   </ol>
 </details>
 
@@ -84,18 +85,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+(Needing Description)
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Java](https://www.java.com/en/)
+* [Minecraft Forge](https://minecraftforge.net)
 
 
 
@@ -107,37 +105,23 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+(awaiting some more java stuff)
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
+   git clone https://github.com/Ukaye-dev/Infinitombs.git
    ```
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [Trello](https://trello.com/b/YB7TeL80/infinitombs) for a list of proposed features, and the [Issues Board](https://github.com/Ukaye-dev/Infinitombs/projects/1) for known issues)
 
 
 
@@ -164,18 +148,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Ukaye - [@UkayeDev](https://twitter.com/UkayeDev)
+Beren - [@Berenvonbaggins](https://twitter.com/Berenvonbaggins)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Discord: - no public discord yet
+Project Link: [https://github.com/Ukaye-dev/Infinitombs](https://github.com/Ukaye-dev/Infinitombs)
+Curseforge Download: 
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!--## Acknowledgements --?
 
+<!--* []()
 * []()
-* []()
-* []()
+* []()-->
 
 
 
@@ -183,15 +170,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[contributors-shield]: https://img.shields.io/github/contributors/Ukaye-dev/Infinitombs.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ukaye-dev/Infinitombs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ukaye-dev/Infinitombs.svg?style=for-the-badge
+[forks-url]: https://github.com/Ukaye-dev/Infinitombs/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ukaye-dev/Infinitombs.svg?style=for-the-badge
+[stars-url]: https://github.com/Ukaye-dev/Infinitombs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ukaye-dev/Infinitombs.svg?style=for-the-badge
+[issues-url]: https://github.com/Ukaye-dev/Infinitombs/issues
+[license-shield]: https://img.shields.io/github/license/Ukaye-dev/Infinitombs.svg?style=for-the-badge
+[license-url]: https://github.com/Ukaye-dev/Infinitombs/blob/master/LICENSE.txt
